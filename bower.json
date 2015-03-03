@@ -3,6 +3,6 @@
   "version": "1.0.1",
   "main": "./videogular.css",
   "dependencies": {
-    "zyncro-bower-videogular": "1.0.2"
+    "zyncro-bower-videogular": "1.0.3"
   }
 }
